@@ -1,4 +1,4 @@
-# TofuTommy: SVG Web-Icons
+# TommyTofu: SVG Web-Icons
 
 This is a collection of open-source, free-to-use, SVG icons for web-development, Graphical User Interface designs, or general projects.
 
