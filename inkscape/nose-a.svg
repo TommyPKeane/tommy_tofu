@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666669"
+   version="1.1"
+   id="svg849"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="nose-a.svg">
+  <defs
+     id="defs843">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect964"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="2,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect960"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="3,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect956"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="3,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect952"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="2,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.36752"
+     inkscape:cx="17.080135"
+     inkscape:cy="13.018329"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="display:inline"
+       id="g4945"
+       transform="matrix(0.5274163,0,0,0.32303984,-32.840167,-25.14714)">
+      <ellipse
+         id="path4907"
+         class="st3"
+         cx="70.400002"
+         cy="98.199997"
+         rx="4.1999998"
+         ry="3.9000001" />
+      <ellipse
+         id="ellipse4909"
+         transform="matrix(0.2833,-0.959,0.959,0.2833,-45.9538,134.3189)"
+         class="st3"
+         cx="66.900002"
+         cy="97.900002"
+         rx="3"
+         ry="1.7" />
+      <ellipse
+         id="ellipse4911"
+         transform="matrix(0.99,-0.141,0.141,0.99,-13.1116,11.4057)"
+         class="st3"
+         cx="73.900002"
+         cy="98.199997"
+         rx="1.6"
+         ry="3.0999999" />
+      <path
+         id="rect4913"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         class="st3"
+         d="m 69.5,79.8 1.7,1.7 1,8.3 1.2,8.6 H 67.7 L 69,85.9 Z" />
+    </g>
+  </g>
+</svg>
