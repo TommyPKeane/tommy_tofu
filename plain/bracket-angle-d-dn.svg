@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 169.33333 169.33334"
-   height="640"
-   width="640">
+   viewBox="0 0 8.4666665 8.466667"
+   height="32"
+   width="32">
   <defs
      id="defs2" />
   <metadata
@@ -26,13 +26,20 @@
   </metadata>
   <g
      id="layer1">
-    <path
-       d="M 84.666671,131.26918 163.14867,46.185834 147.23865,46.645354 84.666671,82.934777 19.039258,46.185834 H 6.184668 Z"
-       style="stroke:none;stroke-width:1.08403;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect1032" />
-    <path
-       id="path1039"
-       style="stroke:none;stroke-width:0.843526;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 84.666671,73.983832 146.43649,38.064154 H 134.20262 L 84.666671,54.744804 30.888828,38.064154 h -11.70579 z" />
+    <g
+       id="g1545">
+      <g
+         transform="matrix(0.41899355,0,0,0.41899355,-31.241455,-31.241454)"
+         id="g1532">
+        <path
+           d="M 84.654572,90.304398 94.161015,80.03925 h -1.603469 l -7.902974,4.417902 -7.927167,-4.417902 h -1.555082 z"
+           style="stroke:none;stroke-width:0.13114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect1032" />
+        <path
+           id="path1039"
+           style="stroke:none;stroke-width:0.102045;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 84.654572,83.374313 7.902974,-4.345377 h -1.47999 l -6.422984,2.017939 -6.526208,-2.017939 h -1.416106 z" />
+      </g>
+    </g>
   </g>
 </svg>
